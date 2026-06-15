@@ -1,4 +1,5 @@
 **Fuel Consumption Linear Regression**
+
 This repository demonstrates a simple linear regression model using Python’s scikit-learn. The project analyzes the relationship between vehicle engine size and CO2 emissions using the FuelConsumption.csv dataset.
 
 **The workflow includes:**
